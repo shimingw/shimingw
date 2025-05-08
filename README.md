@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Shimingwen  </h1>
 
 <p align='center'>
-  I live on NanJing, China and work at <b>Alibaba</b> 
+  I live on NanJing, China.
 </p>
 
 <!-- <p align='center'>
